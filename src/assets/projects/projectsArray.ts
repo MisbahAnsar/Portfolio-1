@@ -1,0 +1,77 @@
+import { ochi, muxikimg, quibbleimg, recordify, sso, synthiaimg, trimImg, wasteeasy } from "./index";
+export const projectArray = [
+    {
+        name: "Ochi",
+        description: "Ochi by Misbah is a modern portfolio showcasing web development and design skills. It features creative, responsive projects, reflecting the creator's expertise and professionalism. Ideal for highlighting technical capabilities to potential clients or collaborators.",
+        image: ochi,
+        type: "",
+        hostedLink: "https://ochi-misbah.netlify.app",
+        githubLink: "https://www.github.com/MisbahAnsar/animetrix-next",
+    },
+    {
+        name: "Bookify",
+        description: "Bookify is a web-based project built using Vite and React, designed to manage and organize books efficiently. The site demonstrates technical skills in creating smooth, responsive user interfaces, and features tools for searching, organizing, and recommending books.",
+        image: wasteeasy,
+        type: "Open Source",
+        hostedLink: "https://wasteeasy.theshiva.xyz/",
+        githubLink: "https://www.github.com/shivabhattacharjee/wasteeasy",
+    },
+    // adding more soon
+
+    // {
+    //     name: "SSO-Auth",
+    //     description: "SSO is a Single Sign-On (SSO) system that allows users to seamlessly authenticate across multiple applications using a single set of credentials. Built with Next.js, PostgreSQL, Prisma, and Tailwind CSS, SSO offers a secure and efficient way to manage user authentication",
+    //     image: sso,
+    //     type: "Open Source",
+    //     hostedLink: "http://demosso.theshiva.xyz/",
+    //     githubLink: "https://www.github.com/shivabhattacharjee/sso",
+    // },
+    // {
+    //     name: "Trim",
+    //     description: "Trim is a sleek and efficient URL shortener project developed using Next.js .  With Trim, users can easily shorten lengthy URLs into concise, manageable links, making sharing and distributing web addresses more convenient",
+    //     image: trimImg,
+    //     type: "open source",
+    //     hostedLink: "https://trim.theshiva.xyz",
+    //     githubLink: "https://www.github.com/shivabhattacharjee/trim",
+    // },
+    // {
+    //     name: "Quibble",
+    //     description: "Quibble, a content generation bot, simplifies and elevates your creative process developed in NEXTJS 14 and TYPESCRIPT. Whether crafting engaging blog posts, soulful song lyrics, or attention-grabbing Insta captions, Quibble's advanced algorithms seamlessly transform your ideas into polished, professional content.",
+    //     image: quibbleimg,
+    //     type: "open source",
+    //     hostedLink: "https://quibble.theshiva.xyz",
+    //     githubLink: "https://www.github.com/shivabhattacharjee/quibble",
+    // },
+    // {
+    //     name: "Synthia",
+    //     description: "Synthia is a lightweight and beginner-friendly interpreted programming language developed in Rust. With a simple, intuitive syntax and a focus on ease of use, Synthia is perfect for both newcomers to programming and experienced developers looking for a flexible scripting language",
+    //     image: synthiaimg,
+    //     type: "open source",
+    //     hostedLink: "",
+    //     githubLink: "https://www.github.com/shivabhattacharjee/synthia",
+    // },
+    // {
+    //     name: "Recordify",
+    //     description: "Recordify is a chrome extension that allows users to record their screen and audio. It is developed in vanilla JavaScript . Users can record their screen and audio with a single click and save the recording as a webm file.",
+    //     image: recordify,
+    //     type: "open source",
+    //     hostedLink: "",
+    //     githubLink: "https://www.github.com/shivabhattacharjee/recordify",
+    // },
+    // {
+    //     name: "Muxik",
+    //     description: "Muxik is a music streaming and downloading platform developed on ReactJs. It provides users with a wide variety of songs, albums, playlists, and artists across different genres. Users can enjoy a seamless and immersive music listening experience through the platform.",
+    //     image: muxikimg,
+    //     type: "open source",
+    //     hostedLink: "",
+    //     githubLink: "https://www.github.com/shivabhattacharjee/muxik",
+    // },
+    // {
+    //     name: "Muxik - CURD API",
+    //     description: "Backend API for muxik developed on NodeJs, ExpressJs, and MongoDB. It allows user to register, login, create, read, update, and delete songs, albums, playlists, and artists. It also allows user to upload and delete songs, albums, playlists, and artists.",
+    //     image: muxikimg,
+    //     type: "open source",
+    //     hostedLink: "",
+    //     githubLink: "https://www.github.com/shivabhattacharjee/muxik-backend",
+    // },
+];
