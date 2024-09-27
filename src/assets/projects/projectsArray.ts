@@ -1,4 +1,4 @@
-import { ochi, muxikimg, quibbleimg, recordify, sso, synthiaimg, trimImg, wasteeasy } from "./index";
+import { ochi, wasteeasy } from "./index";
 export const projectArray = [
     {
         name: "Ochi",
